@@ -13,4 +13,4 @@ Hey there! Welcome to my portfolio, where data, creativity, and a sprinkle of ma
 ### 2. ♻️ Intelligent Waste Classification with Deep Learning 🧠
 - **Description**: Developed a deep learning model to automatically classify waste into six categories: cardboard, glass, metal, paper, plastic, and trash, contributing to improved waste sorting and recycling processes.
 - **Technologies**: Python, TensorFlow, Keras, CNN (ResNet-50, AlexNet), Data Augmentation.
-- **Project Summary**: [Detailed description of the project](waste_classification_project/README.md)
+- **[Project Summary](intelligent_waste_classification/README.md)**: Detailed description of the project
