@@ -29,3 +29,8 @@ Hey there! Welcome to my portfolio, where data, creativity, and a sprinkle of ma
 - **Description**: This project investigates how news sentiment related to Novo Nordisk’s weight-loss drug Wegovy influences the company’s stock prices. By combining sentiment analysis and financial data, we explore the correlation between public opinion and market performance.
 - **Technologies**: Python, VADER, LDA, PowerBI.
 - **[Project Summary](wegovy_stock_analysis)**
+
+### 6. 🔐 Statistical Machine Learning for Network Intrusion Detection: UNSW-NB15 Dataset
+- **Description**: Investigated the application of Machine Learning models for intrusion detection using the UNSW-NB15 dataset, focusing on binary and multi-class classification of network traffic to identify malicious activities.
+- **Technologies**: Python, Random Forest, XGBoost, Logistic Regression, EDA.
+- **[Project Summary](intrusion_detection)**
