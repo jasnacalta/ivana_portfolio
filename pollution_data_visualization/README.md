@@ -1,39 +1,49 @@
 # Pollution Data Visualization on European Industries
 
-## Project Overview
-This project explores the environmental impact of various European industries by visualizing pollution data. The primary objective is to provide insights for policymakers and stakeholders on how different sectors contribute to environmental degradation. The project focuses on:
-- Water production and the impact of the **Water Framework Directive**.
-- The environmental cost and intensity of each industry, broken down by impact area (e.g., abiotic resources, biodiversity, and human health).
+## Overview
+This project aims to visualize the environmental impact of various industries across Europe, focusing on metrics such as pollution, resource depletion, and sustainability. It uses **Tableau** to provide an interactive dashboard that helps policymakers, environmentalists, and businesses understand the environmental footprint of different sectors. The data covers industries' impact on key environmental areas such as water production, biodiversity, and human health.
 
-The final output includes an interactive Tableau dashboard for exploring the pollution impact across countries and industries in Europe.
+## Purpose
+The main goal is to offer a visual tool that enables stakeholders to analyze the pollution data of European industries. By comparing the environmental impact across industries and countries, this project aims to aid the **Environmental Council of the European Union** and other policymakers in developing informed policies for sustainability and resource management.
 
-## Key Components:
-1. **Data Source**:  
-   The dataset is sourced from a study by David Freiberg et al. (2021), which provides metrics on environmental impact across various industries. The data focuses on key environmental indicators like human health, water production capacity, biodiversity, and more.
-   
-2. **Data Processing**:  
-   - **ETL (Extract, Transform, Load)** process was completed using Python, with feature engineering focusing on revenues and industry classification.
-   - The final dataset consists of over 4500 entries across various industries in Europe.
+## Key Components
+### Data Sources:
+- **Corporate Environmental Impact**: Data from a comprehensive study by David Freiberg et al. (2021), which calculates environmental impacts across various domains like human health, biodiversity, and water production capacity.
+- **Sustainalytics ESG Data**: Environmental risk scores based on each company's environmental footprint, providing a comparative analysis across firms.
 
-3. **Visualization**:  
-   The dashboard, built using Tableau, provides:
-   - Time-series trends of environmental intensity and cost.
-   - Geographic comparisons between different countries in Europe.
-   - Breakdown of environmental impact by industry.
-   
-## Technologies Used
-- **Python**: For data extraction, cleaning, and feature engineering.
-- **Jupyter Notebooks**: To document and run the ETL process.
-- **Tableau**: To visualize and explore the data interactively.
+### Data Preparation:
+- **ETL Process**: Data cleaning, filtering, and feature engineering were done using Python and Jupyter Notebooks.
+- **Revenue-based Scaling**: Environmental impact metrics were normalized against company revenues, providing a more accurate comparison across firms of varying sizes.
+
+### Visualization:
+- **Tableau Dashboard**: The interactive dashboard allows users to filter by country, industry, and environmental metrics. It offers:
+  - A **trend analysis** of environmental impact over time.
+  - A **geographic comparison** of environmental intensities.
+  - Industry-level insights into specific areas like water usage and pollution.
+  
+### Key Insights:
+- **Water Framework Directive**: The dashboard shows which industries and countries have the highest negative impact on water production, with sectors like Utilities and Fossil Fuels standing out for their detrimental effects.
+- **Environmental Intensity**: Countries like Portugal, Italy, and Greece show the worst environmental intensity scores, particularly in areas related to water production and resource depletion.
+
+## Technologies Used:
+- **Python**: For data extraction, transformation, and loading (ETL).
+- **Jupyter Notebooks**: For organizing and documenting the data preparation process.
+- **Tableau**: For creating the interactive visualization dashboard.
+
+## Limitations:
+- The dataset is incomplete, with certain countries and industries underrepresented. This limits the granularity of the analysis in some cases.
+- The project only includes **ESG data for 2019**, which restricts trend analysis for ESG metrics.
+
+## Future Improvements:
+- Expanding the dataset to include more countries and industries.
+- Allowing the selection of multiple environmental impact areas in the dashboard for more complex analyses.
+- Adding a filter to focus exclusively on **EU countries** for more specific policy-making insights.
 
 ## Links:
-- **Tableau Dashboard**: [View the Dashboard](https://public.tableau.com/app/profile/freerik.g.tske/viz/PollutionDataonEuropeanIndustries_16729989409400/LandingPage)
+- **Interactive Tableau Dashboard**: [View the Dashboard](https://public.tableau.com/app/profile/freerik.g.tske/viz/PollutionDataonEuropeanIndustries_16729989409400/LandingPage)
 
-## Insights:
-- Industries like **Utilities**, **Fossil Fuels**, and **Mining** have the highest negative environmental impacts in terms of water production.
-- The environmental intensity trend shows improvement in recent years, but significant challenges remain in key sectors.
-
-## Future Work:
-- Expanding the dataset to include more industries and countries.
-- Developing more granular insights into sub-industries for detailed policy recommendations.
-
+## Contributors:
+- Ivana Jasna Caltagirone
+- Tommaso Ghisini
+- Frederik Gøtske
+- Arianna Sammarchi
