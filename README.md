@@ -24,3 +24,8 @@ Hey there! Welcome to my portfolio, where data, creativity, and a sprinkle of ma
 - **Description**: Forecasted the HCPI for Croatian restaurants and hotels from 2022 to 2025 using SARIMA and ETS models. The forecast predicts the HCPI will continue to rise over time, with expected growth ranging from **10% to 20%** by 2025 due to inflation and increased tourism.
 - **Technologies**: Python, SARIMA, ETS, Time Series Decomposition, STL.
 - **[Project Summary](forecast_croatia_cpi)**
+
+### 5. 📊 The Wegovy Effect: Assessing News Impact on Novo Nordisk's Stock Prices
+- **Description**: This project investigates how news sentiment related to Novo Nordisk’s weight-loss drug Wegovy influences the company’s stock prices. By combining sentiment analysis and financial data, we explore the correlation between public opinion and market performance.
+- **Technologies**: Python, VADER, LDA, PowerBI.
+- **[Project Summary](wegovy_stock_analysis)**
