@@ -1,7 +1,8 @@
 # 📊 The Wegovy Effect: Assessing News Impact on Novo Nordisk's Stock Prices
 
 ## Overview
-This project analyzes how news coverage related to Novo Nordisk's groundbreaking weight-loss drug, **Wegovy**, influences the company’s **stock prices**. We collected and examined news articles and financial data to identify patterns in the relationship between **public sentiment** and **market performance**. By combining **sentiment analysis** and **financial data visualization**, we explored how positive and negative media coverage impacts investor behavior.
+This project analyzes how news coverage related to Novo Nordisk's groundbreaking weight-loss drug, **Wegovy**, influences the company’s **stock prices**. We collected and examined news articles and financial data to identify patterns in the relationship between **public sentiment** and **market performance**. By combining **sentiment analysis** and **financial data visualization**, we explored how positive and negative media coverage impacts investor behavior. 
+Please conslut Project_Dashboards.pbix to visualize the PowerBI Dashboards.
 
 ## Purpose
 With Wegovy receiving both acclaim and controversy due to its efficacy in obesity treatment, this project aims to answer the research question:  
