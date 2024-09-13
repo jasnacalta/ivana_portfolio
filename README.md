@@ -19,3 +19,8 @@ Hey there! Welcome to my portfolio, where data, creativity, and a sprinkle of ma
 - **Description**: Analyzed over 47,000 tweets to determine public sentiment towards ChatGPT using various models including Naïve Bayes, RoBERTa, and VADER. Explored key topics related to AI’s impact on daily life and work.
 - **Technologies**: Python, VADER, RoBERTa, Naïve Bayes, Logistic Regression, LDA, WordCloud.
 - **[Project Summary](chatgpt_sentiment_analysis)**
+
+### 4. 📈 Forecasting the Croatian Restaurants and Hotels Harmonized Index of Consumer Prices (HCPI)
+- **Description**: Forecasted the HCPI for Croatian restaurants and hotels from 2022 to 2025 using SARIMA and ETS models, aiding in price optimization and resource allocation for the hospitality industry.
+- **Technologies**: Python, SARIMA, ETS, Time Series Decomposition, STL.
+- **Project Summary**
