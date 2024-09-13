@@ -34,3 +34,8 @@ Hey there! Welcome to my portfolio, where data, creativity, and a sprinkle of ma
 - **Description**: Investigated the application of Machine Learning models for intrusion detection using the UNSW-NB15 dataset, focusing on binary and multi-class classification of network traffic to identify malicious activities.
 - **Technologies**: Python, Random Forest, XGBoost, Logistic Regression, EDA.
 - **[Project Summary](intrusion_detection)**
+
+### 7. 🚗 Data-driven Cloud Solution for B2C Sales Optimization: CarComplements
+- **Description**: Designed a scalable Azure-based ETL and MLOps solution to enhance sales predictions for CarComplements. Focused on optimizing shelf placement, pricing, and advertising using XGBoost and other ML models.
+- **Technologies**: Python, Azure Data Factory, Azure Synapse, XGBoost, Power BI.
+- **[Project Summary](ml_pipeline)**
