@@ -12,7 +12,7 @@ Our model takes images of various waste items and classifies them into six categ
 - Contribute to environmental efforts by providing tools to achieve **sustainable waste management** practices in line with the EU’s Waste Framework Directive.
 
 ## Key Features:
-- **Data Preprocessing**: We used the **TrashNet dataset**, with 2527 images in six categories, resized and augmented the data to ensure our models trained effectively.
+- **Data Preprocessing**: We used the **TrashNet dataset** ([https://www.kaggle.com/datasets/techsash/waste-classification-data](https://www.kaggle.com/datasets/feyzazkefe/trashnet)), with 2527 images in six categories, resized and augmented the data to ensure our models trained effectively.
 - **Baseline Models**: We started with **Random Forest** and **SVM** as benchmarks but found that CNNs outperformed them on this dataset.
 - **Convolutional Neural Networks**:
   - **AlexNet (M)**: Modified to include batch normalization and dropout layers, achieving a validation accuracy of **47%**.
