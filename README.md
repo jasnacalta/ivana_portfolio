@@ -4,7 +4,7 @@ Hey there! Welcome to my portfolio, where data, creativity, and a sprinkle of ma
 
 ## Projects
 
-### 1. Pollution Data Visualization on European Industries 🌍
+### 1. 🏭 Pollution Data Visualization on European Industries 🌍
 - **Description**: Visualized pollution data across European industries using Tableau. Focused on environmental impact and sustainability, providing insights to stakeholders and policymakers.
 - **Technologies**: Python, Tableau, Jupyter Notebook.
 - **[Project Summary](pollution_data_visualization/README.md)**: Detailed description of the project.
