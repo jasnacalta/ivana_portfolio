@@ -22,7 +22,7 @@ Hey there! Welcome to my portfolio, where data, creativity, and a sprinkle of ma
 
 ### 4. 📈 Forecasting the Croatian Restaurants and Hotels Harmonized Index of Consumer Prices (HCPI)
 - **Description**: Forecasted the HCPI for Croatian restaurants and hotels from 2022 to 2025 using SARIMA and ETS models. The forecast predicts the HCPI will continue to rise over time, with expected growth ranging from **10% to 20%** by 2025 due to inflation and increased tourism.
-- **Technologies**: Python, SARIMA, ETS, Time Series Decomposition, STL.
+- **Technologies**: R, SARIMA, ETS, Time Series Decomposition, STL.
 - **[Project Summary](forecast_croatia_cpi)**
 
 ### 5. 📊 The Wegovy Effect: Assessing News Impact on Novo Nordisk's Stock Prices
