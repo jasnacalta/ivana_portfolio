@@ -31,5 +31,3 @@ With the rapid rise of AI technologies like ChatGPT, understanding public sentim
 ## Future Work
 We plan to expand the analysis to include non-English tweets and explore sentiment trends over time. Fine-tuning the sentiment models and applying deep learning approaches like **CNNs** could further enhance accuracy and reveal more intricate patterns in public opinion.
 
-## Authors
-Ivana Jasna Caltagirone, Arianna Sammarchi, Luca Boscolo Camiletto
