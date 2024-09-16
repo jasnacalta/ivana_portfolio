@@ -31,6 +31,3 @@ This project provides insights into how public sentiment drives **short-term sto
 - Extend the analysis to cover a longer period of time and include multilingual news sources.
 - Incorporate additional macroeconomic factors and competitor data to better understand stock fluctuations.
 
-
-## Authors
-- Ivana Jasna Caltagirone, Arianna Sammarchi, Ilaria Uras
