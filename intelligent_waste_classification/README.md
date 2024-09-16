@@ -43,5 +43,3 @@ Improper waste classification is a significant bottleneck in the recycling proce
 ## Conclusion
 This project demonstrates the potential of **deep learning** in revolutionizing waste management. By improving the accuracy of automatic garbage classification, we can significantly enhance the efficiency of recycling processes and contribute to a more sustainable future. 🌎
 
-## Authors:
-Ivana Jasna Caltagirone, Luca Boscolo Camiletto, Arianna Sammarchi, Theo Algoud
