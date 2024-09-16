@@ -29,8 +29,3 @@ CarComplements sought to transition from **on-premise data sources** (SAP and Or
 - Scale up the cloud infrastructure to support more departments and regions within CarComplements.
 - Implement further **cost optimization** strategies within the Azure environment to reduce cloud service expenses by up to **30-40%**.
 - Explore additional market segmentation strategies and advertising budget modeling to improve cost-effectiveness of marketing channels.
-
-## Authors
-- **Ivana Jasna Caltagirone**
-- **Emma Marlene Döffinger**
-- **Piotr Drapinski**
