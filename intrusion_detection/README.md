@@ -28,8 +28,3 @@ The project aims to explore how **Machine Learning models** can improve **networ
 - Testing models on real-world data instead of synthetic datasets like UNSW-NB15 to better understand real-time performance.
 - Incorporating **ensemble methods** to further improve model robustness.
 
-## Authors
-- **Ivana Jasna Caltagirone**
-- **Piotr Drapinski**
-- **Nikolaj Viktor Brøchner Pettersson**
-- **Arianna Sammarchi**
