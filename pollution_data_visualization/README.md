@@ -42,8 +42,3 @@ The main goal is to offer a visual tool that enables stakeholders to analyze the
 ## Links:
 - **Interactive Tableau Dashboard**: [View the Dashboard](https://public.tableau.com/app/profile/freerik.g.tske/viz/PollutionDataonEuropeanIndustries_16729989409400/LandingPage)
 
-## Contributors:
-- Ivana Jasna Caltagirone
-- Tommaso Ghisini
-- Frederik Gøtske
-- Arianna Sammarchi
